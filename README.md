@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com//">
+  <a href="https://github.com/PeterYordanov/camplight-task">
     <img src="assets/AnimationCamplight.gif" alt="Logo" width="900" height="450">
   </a>
 
@@ -71,7 +71,7 @@ Docker with Docker Compose must be installed
 
 1. Clone the repo
    ```sh
-   git clone https://github.com//
+   git clone https://github.com/PeterYordanov/camplight-task
    ```
 
    ```sh
