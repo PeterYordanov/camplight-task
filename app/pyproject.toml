@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "camplight-task"
+version = "1.0.0"
+description = "Camplight Task"
+authors = ["Petar Yordanov"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.115.6"
+uvicorn = "^0.34.0"
+asyncpg = "^0.30.0"
+sqlalchemy = "^2.0.37"
+psycopg2-binary = "^2.9.10"
+pydantic = {extras = ["email"], version = "^2.10.5"}
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,41 @@
+# Node modules
+node_modules
+
+# Build output
+build
+dist
+
+# Development files
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+.dockerignore
+Dockerfile
+.git
+.gitignore
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional artifacts
+*.tar.gz
+*.zip
+*.tgz
