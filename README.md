@@ -70,7 +70,7 @@ Docker with Docker Compose must be installed
 ### Installation
 
    ```sh
-   git clone https://github.com/PeterYordanov/camplight-task
+   git clone https://github.com/PeterYordanov/camplight-task.git
    ```
 
    ```sh
