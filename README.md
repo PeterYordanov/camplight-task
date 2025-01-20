@@ -69,18 +69,17 @@ Docker with Docker Compose must be installed
 
 ### Installation
 
-1. Clone the repo
    ```sh
    git clone https://github.com/PeterYordanov/camplight-task
    ```
 
    ```sh
-   cd
+   cd camplight-task
    ```
 
-  ```sh
-  docker-compose up --build
-  ```
+   ```sh
+   docker-compose up --build
+   ```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
