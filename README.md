@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PeterYordanov/camplight-task">
-    <img src="assets/AnimationCamplight.gif" alt="Logo" width="900" height="450">
+    <img src="assets/AnimationCamplight.gif" alt="Logo" width="850" height="425">
   </a>
 
   <h3 align="center">Camplight task</h3>
